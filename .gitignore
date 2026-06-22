@@ -1,0 +1,37 @@
+# ===========================
+# VMs & ISOs (trop volumineux pour Git)
+# ===========================
+VMs/
+ISOs/
+
+# ===========================
+# macOS
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ===========================
+# Windows
+# ===========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===========================
+# Editors / IDEs
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===========================
+# Logs
+# ===========================
+scripts/Logs/
+*.log
